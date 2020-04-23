@@ -4,7 +4,7 @@
 
 * 컴퓨터학과 진교준
 * 컴퓨터학과 최현민
-* 
+* 컴퓨터학과 최예주
 
 &nbsp;
 👓다른 팀 과제방 구경하기👓  
@@ -69,12 +69,29 @@ Blog : [Hyunmin](https://hyunmin.github.io)
 
 &nbsp;
 
-<img src='깃헙 프로필 사진 오른쪽 클릭 후 이미지 주소 복사' width='20%'>
+<img src = 'https://avatars3.githubusercontent.com/u/59790540?s=460&v=4' width='20%'>
 
-GitHub : [표시할 이름](https://github.com/개인 아이디) 
+&nbsp;
 
-'&nbsp;' 이것은 공백이고, 여러 칸 띄울 때 꼭 넣어야 함!! (엔터 많이 해도 소용 없음)
+GitHub : [@asqw887](https://github.com/asqw887)
 
-줄바꿈 할 때 엔터 두 번 누르기!
+Blog : [예두블로그](https://blog.naver.com/asqw887)
 
-마지막으로 수정한 사람이 이거 양식 지울 것.
+&nbsp;
+
+**이름** : 최예주
+
+**나이** : 24
+
+**좋아하는 것** : 음악, 공연, 드럼, 생각, 여행 
+
+**싫어하는 것** : 초콜릿 
+
+**인사말/각오** : 안녕하세요 멋쟁이사자처럼 8기 최예주입니다
+
+열심히 한번 해보겠습니다..!!!  화이팅 ! 
+
+
+
+&nbsp;
+
